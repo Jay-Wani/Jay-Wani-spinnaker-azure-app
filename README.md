@@ -1,2 +1,2 @@
-# Jay-Wani-spinnaker-azure-app
+# Spinnaker-azure-app
 Spinnaker on Azure 
